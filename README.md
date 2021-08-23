@@ -1,5 +1,5 @@
 # CinemaRoomManager
-##Cinema Managment Java Program
+## Cinema Managment Java Program
 
 This is the first JetBrains Academy: Java Developer project which was specifically chosen to remind Java.
 
